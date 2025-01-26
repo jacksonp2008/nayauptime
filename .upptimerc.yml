@@ -31,7 +31,7 @@ status-website:
   introTitle: "Naya Monitor"
   introMessage: "Welcome"
   navbar:
-    - title: *Status
+    - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
