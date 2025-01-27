@@ -27,7 +27,7 @@ status-website:
   # cname: nayapilates.com
   baseUrl: /jacksonp2008
   logoUrl: https://i0.wp.com/nayapilates.com/wp-content/uploads/2024/01/SITE-LOGO-transparent.png?fit=100%2C101&ssl=1
-  name: Upptime
+  name: nayauptime
   introTitle: "Naya Monitor"
   introMessage: "Welcome"
   navbar:
