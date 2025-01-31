@@ -94,19 +94,19 @@
     "url": "https://movewith.site/bearclaws/",
     "icon": "https://icons.duckduckgo.com/ip3/movewith.site.ico",
     "slug": "bearclaw-finder",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 804,
-    "timeDay": 117,
-    "timeWeek": 804,
-    "timeMonth": 804,
-    "timeYear": 804,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
+    "time": 1230,
+    "timeDay": 3018,
+    "timeWeek": 1230,
+    "timeMonth": 1230,
+    "timeYear": 1230,
     "dailyMinutesDown": {
-      "2025-01-31": 0
+      "2025-01-31": 18
     }
   },
   {
