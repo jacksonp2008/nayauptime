@@ -4,10 +4,10 @@
     "url": "https://nayapilates.com/",
     "icon": "https://icons.duckduckgo.com/ip3/nayapilates.com.ico",
     "slug": "naya-pilates-main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
@@ -15,7 +15,9 @@
     "timeWeek": 156,
     "timeMonth": 210,
     "timeYear": 188,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-02": 1
+    }
   },
   {
     "name": "Naya Members",
@@ -94,10 +96,10 @@
     "url": "https://movewith.site/bearclaws/",
     "icon": "https://icons.duckduckgo.com/ip3/movewith.site.ico",
     "slug": "bearclaw-finder",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 804,
@@ -106,6 +108,7 @@
     "timeMonth": 554,
     "timeYear": 804,
     "dailyMinutesDown": {
+      "2025-03-02": 1,
       "2025-01-31": 18
     }
   },
@@ -114,10 +117,10 @@
     "url": "https://movewith.site/imhungry/",
     "icon": "https://icons.duckduckgo.com/ip3/movewith.site.ico",
     "slug": "recipe-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 291,
@@ -125,16 +128,18 @@
     "timeWeek": 226,
     "timeMonth": 205,
     "timeYear": 291,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-02": 1
+    }
   },
   {
     "name": "Binford Estates",
     "url": "https://www.movewith.site/binford/",
     "icon": "https://icons.duckduckgo.com/ip3/www.movewith.site.ico",
     "slug": "binford-estates",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
@@ -144,6 +149,7 @@
     "timeMonth": 436,
     "timeYear": 412,
     "dailyMinutesDown": {
+      "2025-03-02": 0,
       "2025-02-28": 26
     }
   }
