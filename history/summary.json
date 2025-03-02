@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nayapilates.com.ico",
     "slug": "naya-pilates-main",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 324,
     "timeDay": 2943,
     "timeWeek": 856,
     "timeMonth": 401,
     "timeYear": 324,
-    "dailyMinutesDown": {
-      "2025-03-02": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Naya Members",
@@ -96,19 +94,19 @@
     "url": "https://movewith.site/bearclaws/",
     "icon": "https://icons.duckduckgo.com/ip3/movewith.site.ico",
     "slug": "bearclaw-finder",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.94%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.96%",
     "time": 797,
     "timeDay": 1849,
     "timeWeek": 744,
     "timeMonth": 554,
     "timeYear": 797,
     "dailyMinutesDown": {
-      "2025-03-02": 14,
+      "2025-03-02": 0,
       "2025-01-31": 18
     }
   },
@@ -118,19 +116,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/movewith.site.ico",
     "slug": "recipe-site",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 284,
     "timeDay": 18,
     "timeWeek": 199,
     "timeMonth": 198,
     "timeYear": 284,
-    "dailyMinutesDown": {
-      "2025-03-02": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Binford Estates",
@@ -138,18 +134,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.movewith.site.ico",
     "slug": "binford-estates",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 416,
     "timeDay": 678,
     "timeWeek": 484,
     "timeMonth": 441,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2025-03-02": 13,
       "2025-02-28": 26
     }
   }
