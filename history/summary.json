@@ -4,11 +4,11 @@
     "url": "https://nayapilates.com/",
     "icon": "https://icons.duckduckgo.com/ip3/nayapilates.com.ico",
     "slug": "naya-pilates-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 284,
     "timeDay": 244,
@@ -16,6 +16,7 @@
     "timeMonth": 209,
     "timeYear": 284,
     "dailyMinutesDown": {
+      "2025-05-08": 0,
       "2025-05-03": 20
     }
   },
