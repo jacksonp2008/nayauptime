@@ -99,8 +99,8 @@
     "slug": "bearclaw-finder",
     "status": "down",
     "uptime": "90.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "67.41%",
     "uptimeYear": "90.96%",
     "time": 2366,
@@ -109,7 +109,7 @@
     "timeMonth": 3597,
     "timeYear": 2366,
     "dailyMinutesDown": {
-      "2025-06-20": 0,
+      "2025-06-20": 17,
       "2025-05-30": 171,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
@@ -132,9 +132,9 @@
     "url": "https://movewith.site/imhungry/",
     "icon": "https://icons.duckduckgo.com/ip3/movewith.site.ico",
     "slug": "recipe-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,7 +143,9 @@
     "timeWeek": 333,
     "timeMonth": 224,
     "timeYear": 242,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-20": 0
+    }
   },
   {
     "name": "Binford Estates",
