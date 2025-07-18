@@ -99,11 +99,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/movewith.site.ico",
     "slug": "bearclaw-finder",
     "status": "up",
-    "uptime": "92.38%",
+    "uptime": "92.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "92.38%",
+    "uptimeYear": "92.39%",
     "time": 2566,
     "timeDay": 3403,
     "timeWeek": 3040,
@@ -154,9 +154,9 @@
     "url": "https://www.movewith.site/binford/",
     "icon": "https://icons.duckduckgo.com/ip3/www.movewith.site.ico",
     "slug": "binford-estates",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
@@ -166,6 +166,7 @@
     "timeMonth": 828,
     "timeYear": 646,
     "dailyMinutesDown": {
+      "2025-07-18": 0,
       "2025-06-27": 44,
       "2025-02-28": 26
     }
