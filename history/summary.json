@@ -6,9 +6,9 @@
     "slug": "naya-pilates-main",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 541,
     "timeDay": 1674,
@@ -16,7 +16,6 @@
     "timeMonth": 1056,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2025-07-26": 6,
       "2025-07-04": 32,
       "2025-05-08": 21,
       "2025-05-03": 20
@@ -29,18 +28,16 @@
     "slug": "naya-members",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 507,
     "timeDay": 29,
     "timeWeek": 229,
     "timeMonth": 787,
     "timeYear": 507,
-    "dailyMinutesDown": {
-      "2025-07-26": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Naya Courses",
@@ -49,18 +46,16 @@
     "slug": "naya-courses",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 295,
     "timeDay": 22,
     "timeWeek": 38,
     "timeMonth": 226,
     "timeYear": 295,
-    "dailyMinutesDown": {
-      "2025-07-26": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Naya Coaching",
@@ -69,18 +64,16 @@
     "slug": "naya-coaching",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 243,
     "timeDay": 26,
     "timeWeek": 34,
     "timeMonth": 197,
     "timeYear": 243,
-    "dailyMinutesDown": {
-      "2025-07-26": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Naya Podcasts",
@@ -89,37 +82,35 @@
     "slug": "naya-podcasts",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
     "timeDay": 31,
     "timeWeek": 35,
     "timeMonth": 266,
     "timeYear": 250,
-    "dailyMinutesDown": {
-      "2025-07-26": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bearclaw Finder",
     "url": "https://movewith.site/bearclaws/",
     "icon": "https://icons.duckduckgo.com/ip3/movewith.site.ico",
     "slug": "bearclaw-finder",
-    "status": "down",
+    "status": "up",
     "uptime": "92.74%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "92.74%",
-    "time": 2601,
-    "timeDay": 3285,
-    "timeWeek": 3347,
-    "timeMonth": 3027,
-    "timeYear": 2601,
+    "time": 2608,
+    "timeDay": 3645,
+    "timeWeek": 3420,
+    "timeMonth": 3055,
+    "timeYear": 2608,
     "dailyMinutesDown": {
-      "2025-07-26": 0,
+      "2025-07-26": 15,
       "2025-07-05": 24,
       "2025-06-20": 65,
       "2025-05-30": 171,
