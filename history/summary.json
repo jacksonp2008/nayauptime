@@ -154,9 +154,9 @@
     "url": "https://www.movewith.site/binford/",
     "icon": "https://icons.duckduckgo.com/ip3/www.movewith.site.ico",
     "slug": "binford-estates",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -166,6 +166,7 @@
     "timeMonth": 405,
     "timeYear": 606,
     "dailyMinutesDown": {
+      "2025-08-22": 0,
       "2025-07-18": 41,
       "2025-06-27": 44,
       "2025-02-28": 26
