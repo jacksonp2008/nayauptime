@@ -30,9 +30,9 @@
     "slug": "naya-members",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 708,
     "timeDay": 1315,
@@ -40,7 +40,6 @@
     "timeMonth": 1338,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2025-09-24": 14,
       "2025-09-04": 18
     }
   },
@@ -49,9 +48,9 @@
     "url": "https://nayapilates.com/courses/",
     "icon": "https://icons.duckduckgo.com/ip3/nayapilates.com.ico",
     "slug": "naya-courses",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -60,7 +59,9 @@
     "timeWeek": 1330,
     "timeMonth": 2152,
     "timeYear": 626,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-24": 0
+    }
   },
   {
     "name": "Naya Coaching",
