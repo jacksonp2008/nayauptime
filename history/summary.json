@@ -48,19 +48,19 @@
     "url": "https://nayapilates.com/courses/",
     "icon": "https://icons.duckduckgo.com/ip3/nayapilates.com.ico",
     "slug": "naya-courses",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 626,
-    "timeDay": 1231,
-    "timeWeek": 1330,
-    "timeMonth": 2152,
-    "timeYear": 626,
+    "time": 742,
+    "timeDay": 15544,
+    "timeWeek": 4896,
+    "timeMonth": 2991,
+    "timeYear": 742,
     "dailyMinutesDown": {
-      "2025-09-24": 0
+      "2025-09-24": 12
     }
   },
   {
