@@ -84,19 +84,19 @@
     "url": "https://nayapilates.com/podcasts/",
     "icon": "https://icons.duckduckgo.com/ip3/nayapilates.com.ico",
     "slug": "naya-podcasts",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 579,
-    "timeDay": 755,
-    "timeWeek": 1180,
-    "timeMonth": 1855,
-    "timeYear": 579,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 583,
+    "timeDay": 986,
+    "timeWeek": 1209,
+    "timeMonth": 1843,
+    "timeYear": 583,
     "dailyMinutesDown": {
-      "2025-09-24": 0
+      "2025-09-24": 22
     }
   },
   {
