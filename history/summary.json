@@ -50,18 +50,16 @@
     "slug": "naya-courses",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 744,
     "timeDay": 10817,
     "timeWeek": 4503,
     "timeMonth": 2943,
     "timeYear": 744,
-    "dailyMinutesDown": {
-      "2025-09-24": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Naya Coaching",
@@ -86,18 +84,20 @@
     "url": "https://nayapilates.com/podcasts/",
     "icon": "https://icons.duckduckgo.com/ip3/nayapilates.com.ico",
     "slug": "naya-podcasts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 581,
-    "timeDay": 1336,
-    "timeWeek": 1323,
-    "timeMonth": 1906,
-    "timeYear": 581,
-    "dailyMinutesDown": {}
+    "time": 579,
+    "timeDay": 755,
+    "timeWeek": 1180,
+    "timeMonth": 1855,
+    "timeYear": 579,
+    "dailyMinutesDown": {
+      "2025-09-24": 0
+    }
   },
   {
     "name": "Bearclaw Finder",
@@ -105,11 +105,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/movewith.site.ico",
     "slug": "bearclaw-finder",
     "status": "up",
-    "uptime": "94.54%",
+    "uptime": "94.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.54%",
+    "uptimeYear": "94.55%",
     "time": 2695,
     "timeDay": 3241,
     "timeWeek": 2546,
