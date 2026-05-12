@@ -5,16 +5,6 @@ repo: nayauptime # The name of this repository
 sites:
   - name: Naya Pilates Main
     url: https://nayapilates.com/
-  - name: Naya Members
-    url: https://nayapilates.com/memberships/
-  - name: Naya Courses
-    url: https://nayapilates.com/courses/
-  - name: Naya Coaching
-    url: https://nayapilates.com/coaching/
-  - name: Naya Podcasts
-    url: https://nayapilates.com/podcasts/
-  - name: Bearclaw Finder
-    url: https://movewith.site/bearclaws/
   - name: Recipe Site
     url: https://movewith.site/imhungry/
   - name: Binford Estates
